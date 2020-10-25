@@ -1,0 +1,9 @@
+# Binary dirs
+Debug/
+Release/
+
+# IDE dirs
+.vs/
+
+# Backup files
+.bak
